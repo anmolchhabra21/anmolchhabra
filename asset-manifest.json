@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/anmolchhabra/static/css/main.ad1bb082.css",
+    "main.js": "/anmolchhabra/static/js/main.bc581779.js",
+    "static/media/Map.jpg": "/anmolchhabra/static/media/Map.e743c813eace09366b3c.jpg",
+    "static/media/Mern_Resume.pdf": "/anmolchhabra/static/media/Mern_Resume.295faeac8b997f8cc32b.pdf",
+    "static/media/MePhoto.jpg": "/anmolchhabra/static/media/MePhoto.b2344715f29a81cd4623.jpg",
+    "static/media/unnamed.png": "/anmolchhabra/static/media/unnamed.5edd52fe1bdfe72d648a.png",
+    "static/media/DailyJournal.png": "/anmolchhabra/static/media/DailyJournal.90178f6822a36889b55b.png",
+    "static/media/Mern2png.png": "/anmolchhabra/static/media/Mern2png.eec93e7d0dc4072ebd5a.png",
+    "index.html": "/anmolchhabra/index.html",
+    "main.ad1bb082.css.map": "/anmolchhabra/static/css/main.ad1bb082.css.map",
+    "main.bc581779.js.map": "/anmolchhabra/static/js/main.bc581779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1bb082.css",
+    "static/js/main.bc581779.js"
+  ]
+}
