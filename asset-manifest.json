@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anmolchhabra/static/css/main.720d63fb.css",
-    "main.js": "/anmolchhabra/static/js/main.e6970280.js",
+    "main.js": "/anmolchhabra/static/js/main.2a5855f6.js",
     "static/media/IsmCon.png": "/anmolchhabra/static/media/IsmCon.9c2014f2cec762ce6bfb.png",
     "static/media/PlaceWeb.png": "/anmolchhabra/static/media/PlaceWeb.a5067a0ea3a34f709ccd.png",
     "static/media/Map.jpg": "/anmolchhabra/static/media/Map.e743c813eace09366b3c.jpg",
@@ -14,10 +14,10 @@
     "static/media/Mern2png.png": "/anmolchhabra/static/media/Mern2png.eec93e7d0dc4072ebd5a.png",
     "index.html": "/anmolchhabra/index.html",
     "main.720d63fb.css.map": "/anmolchhabra/static/css/main.720d63fb.css.map",
-    "main.e6970280.js.map": "/anmolchhabra/static/js/main.e6970280.js.map"
+    "main.2a5855f6.js.map": "/anmolchhabra/static/js/main.2a5855f6.js.map"
   },
   "entrypoints": [
     "static/css/main.720d63fb.css",
-    "static/js/main.e6970280.js"
+    "static/js/main.2a5855f6.js"
   ]
 }
