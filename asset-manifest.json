@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/anmolchhabra/static/css/main.ad1bb082.css",
-    "main.js": "/anmolchhabra/static/js/main.bc581779.js",
+    "main.css": "/anmolchhabra/static/css/main.720d63fb.css",
+    "main.js": "/anmolchhabra/static/js/main.e6970280.js",
+    "static/media/IsmCon.png": "/anmolchhabra/static/media/IsmCon.9c2014f2cec762ce6bfb.png",
+    "static/media/PlaceWeb.png": "/anmolchhabra/static/media/PlaceWeb.a5067a0ea3a34f709ccd.png",
     "static/media/Map.jpg": "/anmolchhabra/static/media/Map.e743c813eace09366b3c.jpg",
-    "static/media/Mern_Resume.pdf": "/anmolchhabra/static/media/Mern_Resume.295faeac8b997f8cc32b.pdf",
+    "static/media/Anmol-Resume_10-04.pdf": "/anmolchhabra/static/media/Anmol-Resume_10-04.3ffe8ed7162612fb5c02.pdf",
+    "static/media/WorkOut.png": "/anmolchhabra/static/media/WorkOut.dd86dae66a6cef31d4c2.png",
+    "static/media/DoJo.png": "/anmolchhabra/static/media/DoJo.6f89cc132572b0d2683b.png",
     "static/media/MePhoto.jpg": "/anmolchhabra/static/media/MePhoto.b2344715f29a81cd4623.jpg",
     "static/media/unnamed.png": "/anmolchhabra/static/media/unnamed.5edd52fe1bdfe72d648a.png",
     "static/media/DailyJournal.png": "/anmolchhabra/static/media/DailyJournal.90178f6822a36889b55b.png",
     "static/media/Mern2png.png": "/anmolchhabra/static/media/Mern2png.eec93e7d0dc4072ebd5a.png",
     "index.html": "/anmolchhabra/index.html",
-    "main.ad1bb082.css.map": "/anmolchhabra/static/css/main.ad1bb082.css.map",
-    "main.bc581779.js.map": "/anmolchhabra/static/js/main.bc581779.js.map"
+    "main.720d63fb.css.map": "/anmolchhabra/static/css/main.720d63fb.css.map",
+    "main.e6970280.js.map": "/anmolchhabra/static/js/main.e6970280.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad1bb082.css",
-    "static/js/main.bc581779.js"
+    "static/css/main.720d63fb.css",
+    "static/js/main.e6970280.js"
   ]
 }
